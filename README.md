@@ -12,7 +12,7 @@ This project implements a Question Answering system using Large Language Models 
 To set up the environment, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Koii2k3/LLM-PDF-QA.git
+    git clone https://github.com/NguyenHuy190303/LLM-PDF-QA.git
     ```
 
 2. **Navigate to the project directory**:
@@ -35,6 +35,3 @@ Run the relevant Tunnel code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` note
 
 Run the relevant code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` notebook to start the application via Tunnel.
 
-## Screenshots
-![Wait to upload PDF](./data/1.png)
-![Result](./data/2.png)
